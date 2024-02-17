@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\morda\\source\\repos\\Modulo_Tareas\\Tesr\\Tesr.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\morda\\source\\repos\\Modulo_Tareas\\Modulo_Tareas\\Modulo_Tareas.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\morda\\source\\repos\\Modulo_Tareas\\Modulo_Tareas\\Modulo_Tareas.csproj",
+        "projectName": "Modulo_Tareas",
+        "projectPath": "C:\\Users\\morda\\source\\repos\\Modulo_Tareas\\Modulo_Tareas\\Modulo_Tareas.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\morda\\source\\repos\\Modulo_Tareas\\Tesr\\Tesr.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\morda\\source\\repos\\Modulo_Tareas\\Tesr\\Tesr.csproj",
+        "projectName": "Tesr",
+        "projectPath": "C:\\Users\\morda\\source\\repos\\Modulo_Tareas\\Tesr\\Tesr.csproj",
+        "packagesPath": "C:\\Users\\morda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\morda\\source\\repos\\Modulo_Tareas\\Tesr\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\morda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\morda\\source\\repos\\Modulo_Tareas\\Modulo_Tareas\\Modulo_Tareas.csproj": {
+                "projectPath": "C:\\Users\\morda\\source\\repos\\Modulo_Tareas\\Modulo_Tareas\\Modulo_Tareas.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

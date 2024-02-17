@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 35,
+    "Name": "pikachu",
+    "Type": "electric",
+    "FavoriteFood": "Platano",
+    "Location": "24654218",
+    "BloodType": "O-",
+    "Date": "2004-04-11T00:00:00",
+    "Weight": 60,
+    "Sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+  }
+]

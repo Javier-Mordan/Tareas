@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo_Tareas", "Modulo_Tareas\Modulo_Tareas.csproj", "{709F072C-EE1A-40C0-8E74-FA1B76C04F2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesr", "Tesr\Tesr.csproj", "{3BE499F0-A9B5-43C1-85DA-549FBEA95817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709F072C-EE1A-40C0-8E74-FA1B76C04F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709F072C-EE1A-40C0-8E74-FA1B76C04F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709F072C-EE1A-40C0-8E74-FA1B76C04F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709F072C-EE1A-40C0-8E74-FA1B76C04F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE499F0-A9B5-43C1-85DA-549FBEA95817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE499F0-A9B5-43C1-85DA-549FBEA95817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE499F0-A9B5-43C1-85DA-549FBEA95817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE499F0-A9B5-43C1-85DA-549FBEA95817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB7D9650-1A70-4BDA-89D4-68B204FDD28E}
+	EndGlobalSection
+EndGlobal
